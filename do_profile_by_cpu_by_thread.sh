@@ -1,0 +1,1 @@
+operf -g -t -c java -agentpath:/usr/local/lib/oprofile/libjvmti_oprofile.so -jar target/target.jar

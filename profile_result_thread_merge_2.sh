@@ -1,0 +1,1 @@
+opreport -c --merge tid
